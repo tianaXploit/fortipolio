@@ -1,1 +1,2 @@
-[<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tianaXploit&theme=light&hide_langs_below=1" />](https://github.com/tianaXploit)
+![tianaXploit](https://komarev.com/ghpvc/?username=tianaXploit&label=Views&color=blue&style=plastic)
+[![GitHub tianaXploit](https://img.shields.io/github/followers/tianaXploit?label=follow&style=social)](https://github.com/tianaXploit)
